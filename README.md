@@ -105,4 +105,6 @@ Com base nas fontes, as portas e protocolos que geralmente devem permanecer aber
 *   **Segmentação Interna:** Além de controlar as portas na borda da rede (firewall de borda), é recomendado o uso de **firewalls de segmentação interna** para inspecionar o tráfego entre diferentes partes da rede e garantir que dados maliciosos não circulem internamente.
 *   **Monitoramento:** É crucial monitorar o ambiente para detectar anomalias, como um aumento inesperado de conexões em determinadas portas, o que pode indicar um incidente de segurança.
 ---
+*https://notebooklm.google.com/notebook/a4219b4c-23ff-44f7-9b95-0a06fa972eb4*
+
 *Este material foi consolidado com base em estudos técnicos de programação e segurança digital.*
